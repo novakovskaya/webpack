@@ -1,1 +1,1 @@
-# goit-js-hw-09-gallery
+Start with installation (npm install)
